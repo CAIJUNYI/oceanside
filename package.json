@@ -1,12 +1,12 @@
 {
     "name": "oceanside",
-    "displayName": "Ocean Side",
+    "displayName": "Oceanside",
     "description": "Color and UI theme based on Oceanic Next",
     "version": "1.0",
     "publisher": "cc",
     "repository": {
         "type": "git",
-        "url": "https://github.com/marcoms/oceanic-plus.git"
+        "url": "https://github.com/CAIJUNYI/oceanside.git"
     },
     "engines": {
         "vscode": "^1.20.0"

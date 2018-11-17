@@ -1,4 +1,4 @@
-# Ocean Side 
+# Oceanside
 
 Oceanside is a color scheme based on the popular Oceanic Next color scheme, with enhanced VSCode-specific enhancements targeting the workspace and other UI elements.
 
