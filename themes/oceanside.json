@@ -70,7 +70,10 @@
 		"tab.activeBorder": "#80CBC4",
 		"debugToolBar.background": "#16242C",
 		"dropdown.background": "#16242C",
-		"editorIndentGuide.activeBackground": "#80CBC450"
+		"editorIndentGuide.activeBackground": "#80CBC450",
+		"peekViewEditor.background": "#16242C",
+		"peekViewTitle.background": "#111B21",
+		"peekViewResult.background": "#16242C"
 	},
 	"tokenColors": [
 		{
