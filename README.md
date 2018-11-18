@@ -6,6 +6,6 @@ Oceanside is an enhanced Oceanic Plus theme.
 
 ## Credits
 
-- [Oceanic Plus ](https://github.com/marcoms/oceanic-plus)
+- [Oceanic Plus](https://github.com/marcoms/oceanic-plus)
 - [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme)
 - [Oceanic Next Italic](https://github.com/Bloemert/oceanic-next-italic)

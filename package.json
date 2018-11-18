@@ -1,8 +1,8 @@
 {
     "name": "oceanside",
     "displayName": "Oceanside",
-    "description": "Color and UI theme based on Oceanic Next",
-    "version": "1.0",
+    "description": "VSCode theme based on Oceanic Next",
+    "version": "1.0.0",
     "publisher": "cc",
     "repository": {
         "type": "git",
@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ocean Side",
+                "label": "Oceanside",
                 "uiTheme": "vs-dark",
                 "path": "./themes/oceanside.json"
             }
