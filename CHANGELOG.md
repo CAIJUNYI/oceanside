@@ -1,5 +1,10 @@
 # Change Log
 
+## 2019-04-22
+
+- Darken input background
+- Darken badge background
+
 ## 2019-02-17
 
 - Add colors for find/replace
