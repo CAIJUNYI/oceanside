@@ -4,6 +4,7 @@
 
 - Darken input background
 - Darken badge background
+- Lighten selection
 
 ## 2019-02-17
 
